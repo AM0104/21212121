@@ -1,0 +1,2 @@
+cd "E:\Сайт"
+powershell -NoProfile -ExecutionPolicy Bypass -File .\start-site.ps1
